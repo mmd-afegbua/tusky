@@ -1,2 +1,2 @@
 # tusky
-A collaborative project on DevOps best practices
+### A collaborative project on DevOps using docker and kubernetes
